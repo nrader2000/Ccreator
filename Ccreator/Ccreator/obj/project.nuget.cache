@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kRezJubOTBs5sWhMLk4VkbxRh99vZHBc5T2z2W1tPtWE7qiG1RpDsjyFq3u/LAGp3R+k3l4pJvx+N/OoABYhQA==",
+  "dgSpecHash": "buKNztoI+yMCIdkV2bd9cSUuRWjdTUsoxQzMkoVaZLRfks/Y0aSCM2aGun3IptMXuFckMhRQaARHzQwIC+gJ1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj",
+  "projectFilePath": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nick Rader\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Nick Rader\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Nick Rader\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rader\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rader\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rader\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\rader\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }

@@ -981,24 +981,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nick Rader\\.nuget\\packages\\": {},
+    "C:\\Users\\rader\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
       "projectName": "Ccreator.iOS",
-      "projectPath": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
-      "packagesPath": "C:\\Users\\Nick Rader\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator.iOS\\obj\\",
+      "projectPath": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
+      "packagesPath": "C:\\Users\\rader\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nick Rader\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rader\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1012,8 +1012,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj": {
-              "projectPath": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj"
+            "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj": {
+              "projectPath": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator\\Ccreator.csproj"
             }
           }
         }

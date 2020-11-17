@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MsaH+4Sxd7imdXTwzKjwS861G2GaSD7g435ENDGP2MIXOmvfbFetMWYeHHMF3JcjJQBBSTenAUWaIRBL/GdtqQ==",
+  "dgSpecHash": "jFkG+sIxADGyh60FgACE1vobzfqQ+wvlAn0riNqC7xO5t9luXmB0o4XiZIUxoujCoUU9bXjgj7hjzrUyNw5AcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nick Rader\\source\\repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
+  "projectFilePath": "C:\\Users\\rader\\Source\\Repos\\Ccreator\\Ccreator\\Ccreator.iOS\\Ccreator.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\rader\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }
