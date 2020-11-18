@@ -12,3 +12,18 @@ C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandar
 C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.dll
 C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\ref\Ccreator.dll
 C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.pdb
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\bin\Debug\netstandard2.0\Ccreator.deps.json
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\bin\Debug\netstandard2.0\Ccreator.dll
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\bin\Debug\netstandard2.0\ref\Ccreator.dll
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\bin\Debug\netstandard2.0\Ccreator.pdb
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.csprojAssemblyReference.cache
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\StartPage.xaml.g.cs
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.AssemblyInfoInputs.cache
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.AssemblyInfo.cs
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.csproj.CoreCompileInputs.cache
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.dll
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\ref\Ccreator.dll
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Ccreator.pdb
+C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator\obj\Debug\netstandard2.0\Page1.xaml.g.cs
