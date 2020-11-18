@@ -974,3 +974,6 @@ C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\stam
 C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\rader\Source\Repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\res\drawable\load.png
+C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\res\drawable\appicon.png
+C:\Users\Nick Rader\source\repos\Ccreator\Ccreator\Ccreator.Android\obj\Debug\90\res\drawable\ccreator.png
