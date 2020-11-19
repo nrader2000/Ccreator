@@ -15,16 +15,11 @@ namespace Ccreator
             InitializeComponent();
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
-            loadWheel.RotateTo(360, 1500, Easing.SinInOut);
-            loadWheel.FadeTo(0, 2000, Easing.SpringIn);
-            startButton.FadeTo(100, 3000, Easing.SpringIn);
-        }
-
-        async void startButton_Clicked(object sender, EventArgs e)
-        {
+            await loadWheel.RotateTo(180, 2000, Easing.SinInOut);
+            await loadWheel.RotateTo(360, 2000, Easing.SinInOut);
             await Navigation.PushModalAsync(new Page1());
         }
     }
