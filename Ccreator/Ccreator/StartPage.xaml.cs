@@ -18,8 +18,8 @@ namespace Ccreator
         protected override async void OnAppearing()
         {
             base.OnAppearing();
-            await loadWheel.RotateTo(180, 2000, Easing.SinInOut);
             await loadWheel.RotateTo(360, 2000, Easing.SinInOut);
+            await loadWheel.RotateTo(720, 2000, Easing.SinInOut);
             await Navigation.PushModalAsync(new Page1());
         }
     }

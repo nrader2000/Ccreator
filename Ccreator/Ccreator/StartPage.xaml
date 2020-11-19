@@ -5,14 +5,12 @@
              NavigationPage.HasNavigationBar="False">
 
     <StackLayout BackgroundColor="#535353">
-        <Frame HeightRequest="80" BackgroundColor="Transparent"/>
-        <Frame BackgroundColor="#353587">
+        <Frame BackgroundColor="#353587" VerticalOptions="EndAndExpand">
             <Image Source="Ccreator"/>
         </Frame>
-        <Frame BackgroundColor="Transparent"/>
-        <Frame x:Name="loadWheel" BackgroundColor="#393939" CornerRadius="40" HorizontalOptions="Center">
+        <Frame x:Name="loadWheel" BackgroundColor="#393939" CornerRadius="40" 
+               HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
             <Image Source="Load" HeightRequest="40"/>
         </Frame>
     </StackLayout>
-
 </ContentPage>
